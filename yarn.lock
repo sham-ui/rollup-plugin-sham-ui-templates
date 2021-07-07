@@ -531,23 +531,23 @@ semver@^6.3.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
 
-sham-ui-macro@^3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/sham-ui-macro/-/sham-ui-macro-3.4.0.tgz#327581102833e11c350eacfc325a455a5b47af52"
-  integrity sha512-XxWzGgG+X0i1Ol2CpbK1aajxyASISwLXJre3DFaTWoRBo0njO7Qo7M4xo5qcbq1WKLe+coN1c0sHNoHnPJrVXA==
+sham-ui-macro@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/sham-ui-macro/-/sham-ui-macro-3.5.0.tgz#718ec4d6034e7a16750a091c0304c6ef2be331d7"
+  integrity sha512-OmzU33Zz82AFCUC4M+TP/uALy1Czwhd9HkZ0WwzjtKRIphhILw4PP4fAVpiwVG6DDJSRuTw6KnslZNXpYEAXJw==
   dependencies:
     babel-generator "^6.26.1"
     babel-macros "^1.0.2"
     babel-types "^6.26.0"
 
-sham-ui-templates@^5.0.0-alpha.9:
-  version "5.0.0-alpha.9"
-  resolved "https://registry.yarnpkg.com/sham-ui-templates/-/sham-ui-templates-5.0.0-alpha.9.tgz#8506abbb67624394a36b2a7c5736bce46fb36f17"
-  integrity sha512-Mx1ssMMxRNNzMBEmRqEtMSBh4lJKs62KbqvoXF4R/fHgugs5gZKtDVU71ytsJzff2XUYPlZrRfI9WgbPVwWVxg==
+sham-ui-templates@^5.0.0-alpha.10:
+  version "5.0.0-alpha.10"
+  resolved "https://registry.yarnpkg.com/sham-ui-templates/-/sham-ui-templates-5.0.0-alpha.10.tgz#ad6b5e5d7584016d2c8d1738c2150b244a782698"
+  integrity sha512-TBLNdV/XLLXDVoMaLtckaatNfj68oUo+27dvKeM4F/v5ZxBlVh6mLLp+WFpyREgkuPMYD4mybOZZTxR1vDktRg==
   dependencies:
     asciitree "^1.0.2"
     sham-ui "5.0.0-alpha.5"
-    sham-ui-macro "^3.4.0"
+    sham-ui-macro "^3.5.0"
     source-map "^0.5.7"
 
 sham-ui@5.0.0-alpha.5:
