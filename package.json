@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-sham-ui-templates",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Rollup plugin for compile sham-ui templates",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
