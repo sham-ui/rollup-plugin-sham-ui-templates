@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-sham-ui-templates",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Rollup plugin for compile sham-ui templates",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/sham-ui/rollup-plugin-sham-ui-templates#readme",
   "dependencies": {
     "@rollup/pluginutils": "^3.1.0",
-    "sham-ui-templates": "^5.0.0-alpha.14",
+    "sham-ui-templates": "^5.0.0-alpha.15",
     "source-map": "^0.5.6"
   },
   "devDependencies": {
